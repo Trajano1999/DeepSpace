@@ -1,6 +1,6 @@
 # DeepSpace
 
-Práctica final de la asignatura de Programación y Diseño Orientado a Objetos.
+Práctica final de la asignatura de **Programación y Diseño Orientado a Objetos**.
 
 Grupo formado por:
 
