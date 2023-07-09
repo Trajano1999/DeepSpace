@@ -30,4 +30,4 @@ Este juego está programado en dos lenguages: *Java* y *Ruby*.
 ### Notas :
 
 1. Para ejecutar en **Windows** solo hay que cambiar `/` por `\`.
-2. Obviamente debemos tener instalado tanto *Ruby* como *Java*.
+2. Obviamente debemos tener instalado tanto *Java* como *Ruby*.
