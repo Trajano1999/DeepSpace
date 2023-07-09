@@ -7,6 +7,16 @@ Grupo formado por:
 - Jose Luis Ruiz Benito.
 - Juan Manuel Mateos Pérez.
 
+## Descripción
+
+Este juego es multijugador ya que deben ser 2 personas como mínimo las que participen en él, y 4 como máximo. 
+
+Al comienzo del juego, se reparte aleatoriamente a cada jugador un set de armas y escudos en sus hangares. Cada uno podrá decidir qué armas equipar en su ataque/defensa o qué armas almacenar en el hangar. Por cada ronda, se le asocia a cada jugador un enemigo (hay distintos niveles de dificultad) y se procede a un combate que se decide probabilísticamente dependiendo del ataque y defensa del jugador, y del enemigo a enfrentar. 
+
+Tras el combate, en caso de ganar será premiado el jugador con más armas y/o escudos. Mientras que en caso de perder el combate, deberá descartarse de algunas armas y/o escudos. 
+
+El usuario ganará el juego cuando consiga ganar un número total de combates (aprox 6), o perderá si es vencido ese mismo número de veces.
+
 ## Ejecución 
 
 Este juego está programado en dos lenguages: *Java* y *Ruby*.
