@@ -9,17 +9,17 @@ Grupo formado por:
 
 ## Ejecución 
 
-Este programa esta programado en dos lenguages de programación: *Java* y *Ruby*.
+Este juego está programado en dos lenguages: *Java* y *Ruby*.
 
 * Para ejecutar en **Linux** el programa de *Java*, debemos acceder a la carpeta `Java` e introducir en la terminal el siguiente comando :
 
     `java -cp .\dist\deepspace.jar Main.PlayWithUI`
 
-    Si queremos jugar en la versión de terminal, es decir, sin interfaz gráfica. O
+    si queremos jugar en la versión de terminal, es decir, sin interfaz gráfica. O
 
     `java -cp .\dist\deepspace.jar Main.PlayWithGUI`
 
-    Si quieremos jugar en la versión con interfaz gráfica.
+    si quieremos jugar en la versión con interfaz gráfica.
 
 * Para ejecutar en **Linux** el programa de *Ruby*, debemos acceder a la carpeta `Ruby` e introducir en la terminal el siguiente comando :
 
