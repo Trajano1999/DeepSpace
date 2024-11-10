@@ -21,21 +21,21 @@ La victoria se obtiene tras vencer en un número determinado de combates (aproxi
 
 Este juego está programado en dos lenguages: **Java** y **Ruby**.
 
-* Para ejecutar en **Linux** el programa en **Java**, es necesario acceder a la carpeta `Java` e introducir en la terminal alguno de los siguientes comandos:
+* Para ejecutar en **Linux** el programa en **Java**, es necesario acceder a la carpeta ``Java`` e introducir en la terminal alguno de los siguientes comandos:
 
     - Si queremos jugar en la versión de terminal, es decir, sin interfaz gráfica:
 
-        `java -cp ./dist/deepspace.jar Main.PlayWithUI`
+        ``java -cp ./dist/deepspace.jar Main.PlayWithUI``
 
     - Si quieremos jugar en la versión con interfaz gráfica:
 
-        `java -cp ./dist/deepspace.jar Main.PlayWithGUI`
+        ``java -cp ./dist/deepspace.jar Main.PlayWithGUI``
 
-* Para ejecutar en **Linux** el programa de **Ruby**, debemos acceder a la carpeta `Ruby` e introducir en la terminal el siguiente comando:
+* Para ejecutar en **Linux** el programa de **Ruby**, debemos acceder a la carpeta ``Ruby`` e introducir en la terminal el siguiente comando:
 
-    `ruby Main.rb`
+    ``ruby Main.rb``
 
 ### Notas
 
-1. Para ejecutar el programa en **Windows**, solo hay que cambiar `/` por `\`.
+1. Para ejecutar el programa en **Windows**, solo hay que cambiar ``/`` por ``\``.
 2. Obviamente debemos tener instalado tanto **Java** como **Ruby**.
