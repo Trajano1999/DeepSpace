@@ -17,7 +17,7 @@ Tras el combate, si el jugador resulta vencedor, recibe una recompensa en forma 
 
 La victoria se obtiene tras vencer en un número determinado de combates (aproximadamente 6), mientras que la misma cantidad de derrotas resultará en la pérdida del juego.
 
-## Ejecución 
+## Ejecución
 
 Este juego está programado en dos lenguages: **Java** y **Ruby**.
 
