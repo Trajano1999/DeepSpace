@@ -1,6 +1,6 @@
 # DeepSpace
 
-Práctica final de la asignatura de **Programación y Diseño Orientado a Objetos** del **Doble Grado en Ingeniería Informática y Matemáticas** de la **Universidad de Granada**.
+Práctica final de la asignatura de **Programación y Diseño Orientado a Objetos** del Doble Grado en Ingeniería Informática y Matemáticas de la Universidad de Granada.
 
 Grupo formado por:
 
