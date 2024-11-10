@@ -4,8 +4,8 @@ Práctica final de la asignatura de **Programación y Diseño Orientado a Objeto
 
 Grupo formado por:
 
-- Jose Luis Ruiz Benito (@jruib)
-- Juan Manuel Mateos Pérez (@Trajano1999)
+- Jose Luis Ruiz Benito ([@jruib](https://github.com/jruib))
+- Juan Manuel Mateos Pérez ([@Trajano1999](https://github.com/Trajano1999))
 
 ## Descripción
 
